@@ -7,7 +7,7 @@ Full-Stack Developer
 Recent Master's graduate in Computer Science with a strong passion for cutting-edge technology and software development. Eager to leverage a solid academic foundation and hands-on experience in coding and problem-solving to contribute effectively in a dynamic team environment. Seeking opportunities to apply my skills and enthusiasm in a challenging role where I can grow and make a significant impact.
 
 * 🌍  I'm based in Bamberg
-* 🖥️  See my portfolio at [MyPortfolio](http://sibisambasivam.netlify.app/)
+* 🖥️  See my portfolio at [Sibi Sambasivam | Developer](http://sibisambasivam.netlify.app/)
 * ✉️  You can contact me at [sibisambasivam2@gmail.com](mailto:sibisambasivam2@gmail.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on interesting projects
